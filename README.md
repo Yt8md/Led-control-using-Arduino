@@ -58,9 +58,26 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+![alt text](image.png)
 
 ## PROGRAM
+![alt text](image-1.png)
 
 ## OUTPUT
 
+LED OFF
+
+![alt text](<Screenshot 2024-03-08 190500.png>)
+
+<br>
+<br>
+<br>
+
+LED ON
+
+![alt text](<Screenshot 2024-03-08 192700.png>)
+
+
 ## RESULT
+
+Thus, the program is successfully executed.
